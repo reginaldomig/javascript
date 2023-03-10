@@ -4,3 +4,4 @@ var anoAtual = 2023
 
 // Em que ano Josefina nasceu?
 
+console.log('Coloque aqui o resultado')
